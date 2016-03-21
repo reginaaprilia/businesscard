@@ -26,9 +26,22 @@ p {
   font-family: 'Cookie', cursive;
 }
 
-a:link, a:visited, a:hover {
-  color: #c72a61;
-  padding: 20px;
+ul {
+    list-style-type: disc;
+    color: #000;
+}
+
+a:link {
+  color: #2F2235;
+  padding: 5px;
+}
+
+a:visited {
+  color: #3F3244;
+}
+
+a:hover {
+  color: #60495A;
 }
 
 
@@ -44,8 +57,87 @@ a:link, a:visited, a:hover {
   padding: 20px;
 }
 
+.googletext {
+  font-size: 20px;
+  text-align: left;
+  font-weight: 200;
+  padding: 20px;
+
+}
+
+.googletext2 {
+  font-size: 15px;
+  text-align: left;
+  font-weight: 200;
+  padding: 20px;
+}
+
+.googletext3 {
+  font-size: 15px;
+  text-align: left;
+  font-weight: 200;
+  padding: 20px;
+  color: #000;
+}
+
 .row {
   display: inline-block;
 }
+
+.card-image {
+  padding-top: 20px;
+
+}
+
+.sidebarblue {
+  color: #fff;
+  background-color: #4285f4;
+  width: 100%;
+}
+
+.sidebarblue1 {
+  padding-top: 120px;
+  color: #fff;
+  background-color: #4285f4;
+  width: 100%; 
+}
+
+.sidebarblue2 {
+  padding-bottom: 120px;
+  color: #fff;
+  background-color: #4285f4;
+  width: 100%; 
+}
+
+
+.sidebarred {
+  color: #fff;
+  background-color: #ea4335;
+  width: 100%; 
+  
+}
+
+.sidebaryellow {
+  color: #fff;
+  background-color: #fbbc05;
+  width: 100%;
+   
+
+}
+
+.sidebargreen {
+  color: #fff;
+  background-color: #34a853;
+  width: 100%; 
+}
+
+.me {
+  padding: 10px;
+  font-size: 20px;
+  color: #fff;
+  text-align: center;
+}
+
+
 
 
