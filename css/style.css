@@ -16,6 +16,10 @@ h1, h4 {
   font-family: 'Lato', sans-serif;
 }
 
+h5 {
+  padding-top: 30px;
+}
+
 p {
   padding-top: 120px;
   margin: 0 auto;
